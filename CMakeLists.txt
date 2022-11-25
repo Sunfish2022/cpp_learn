@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.23)
-project(untitled)
+project(cppLearn)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled src/main.cpp src/main.h)
+add_executable(cppLearn src/main.cpp)
